@@ -267,8 +267,9 @@ button {
 }
 
 .genericList-container .movie-container {
-  display: inline-block;
-  width: 47.5%;
+  display: flex;
+  justify-content: center;
+  margin: 20px;
 }
 
 .genericList-container .movie-img {
